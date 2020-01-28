@@ -15,9 +15,8 @@ import sys, os
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
 
-from sphinx_antmicro_theme import __version__, get_html_theme_path
 html_theme_path = ['.']
-theme_path = get_html_theme_path() + "/sphinx_antmicro_theme"
+theme_path = "./sphinx_antmicro_theme"
 
 # -- General configuration -----------------------------------------------------
 
