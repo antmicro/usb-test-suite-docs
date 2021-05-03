@@ -1,5 +1,7 @@
 # USB Test Suite documentation
 
+Copyright (c) 2020-2021 [Antmicro](https://www.antmicro.com)
+
 This repository contains documentation of the USB Test Suite. Main repository for the project is [here](https://github.com/antmicro/usb-test-suite-build).
 
 The documentation is hosted at [Read the Docs](https://usb-test-suite.readthedocs.io/en/latest/index.html).
